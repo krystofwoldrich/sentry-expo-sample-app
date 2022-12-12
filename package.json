@@ -13,7 +13,12 @@
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
     "react-native": "0.70.5",
-    "sentry-expo": "~6.0.0"
+    "sentry-expo": "~6.0.0",
+    "expo-application": "~5.0.1",
+    "expo-constants": "~14.0.2",
+    "expo-device": "~5.0.0",
+    "expo-updates": "~0.15.6",
+    "@sentry/react-native": "4.9.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
