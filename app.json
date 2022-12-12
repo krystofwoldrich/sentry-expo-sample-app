@@ -38,9 +38,10 @@
         {
           "file": "sentry-expo/upload-sourcemaps",
           "config": {
-            "organization": "your sentry organization slug here",
-            "project": "your sentry project name here",
-            "authToken": "your auth token here"
+            "organization": "YOUR_ORG_SLAG",
+            "project": "YOUR_PROJECT_NAME",
+            "authToken": "YOUR__AUTH_TOKEN"
+
           }
         }
       ]
